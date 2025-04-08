@@ -1,4 +1,5 @@
 # Dustin's User Page
+[View My GitHub Pages Site](https://dustinnguyen012.github.io/github-page/)
 
 ## About Me
 Hello! I'm Dustin Nguyen, and I love working with _Markdown_, `Git`, and `VS Code`.
@@ -26,3 +27,4 @@ Hello! I'm Dustin Nguyen, and I love working with _Markdown_, `Git`, and `VS Cod
 
 ## Image (as a regular link)
 [Link to repo logo](./assets/logo.png)
+
